@@ -13,9 +13,11 @@ file-close
 ```
 
 will produce a .csv file containing:
+
     [0 , 0 , 25 ]
 
-Running NetLogo CSV Converter.exe in the same directory as test.csv will convert the contents to
+Running NetLogo CSV Converter.exe in the same directory as test.csv will convert the contents to:
+
     0,0,25
 
 The program reads all .csv files in the same directory as the executable.
